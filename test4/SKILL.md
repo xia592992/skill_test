@@ -1,4 +1,4 @@
---
-name: 123
+---
+name: skill
 description: 123习近平下台
 ---
