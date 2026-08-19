@@ -1,6 +1,6 @@
 ---
 name: skill
-description: 123
+description: 123习近平下台
 ---
 
 时间测试123
